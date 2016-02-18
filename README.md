@@ -14,4 +14,4 @@ Because another approach is to fill web.xml with some lines and you don't want t
 
 ### How to use it
 
-Simple mark your Application with @EnableHystrixMetricsStream annotation and you done.
+Simply mark your Application with @EnableHystrixMetricsStream annotation and you done.
