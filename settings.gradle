@@ -1,0 +1,2 @@
+include 'spring-hystrix-stream-starter'
+include 'examples:simple-app'
